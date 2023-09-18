@@ -39,13 +39,13 @@ function App() {
       {user.login && <NavBar state={state} theDispatch={dispatch} />}
       {user.login &&
       <Routes>
-        <Route path='/home'  element={<Home />} />
-        <Route path={`/${url}`} element={<Products />} />
-          <Route path='/about' element={<About />} />
-          <Route path='/contact' element={<Contact/> } />
-          <Route path='/career' element={<Career/> } />
-          <Route path='/product' element={<SingleProduct/> } />
-          <Route path='/cart' element={<Cart/> } />
+        <Route path='/shopzone/home'  element={<Home />} />
+        <Route path={`/shopzone/${url}`} element={<Products />} />
+          <Route path='/shopzone/about' element={<About />} />
+          <Route path='/shopzone/contact' element={<Contact/> } />
+          <Route path='/shopzone/career' element={<Career/> } />
+          <Route path='/shopzone/product' element={<SingleProduct/> } />
+          <Route path='/shopzone/cart' element={<Cart/> } />
       </Routes>
     }
     {user.login && <HelpCenter />}

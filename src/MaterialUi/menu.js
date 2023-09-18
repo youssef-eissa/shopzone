@@ -31,7 +31,7 @@ export default function Menu() {
             })
         dispatch(resetProducts())
         dispatch(productPage(productsFiltered))
-        navigate(`/${category.trim()}`)
+        navigate(`/shopzone/${category.trim()}`)
         dispatch(urlPage(category))
         window.scrollTo({behavior:'smooth',top:0})
     }
