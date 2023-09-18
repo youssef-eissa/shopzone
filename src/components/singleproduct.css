@@ -1,0 +1,38 @@
+.singleProduct{
+    margin-top: 250px;
+}
+.singleProduct .imgCon{
+    border: 1px solid black;
+}
+.quantity input[type='number']{
+    border: 1px solid #c0c0c0;
+
+}
+
+.quantity input[type='number']:focus{
+    outline: none;
+}
+.right button{
+    border: none;
+    transition: 0.3s;
+}
+
+.right button:nth-of-type(1){
+    background-color: #8A2BE2;
+    color: white;
+}
+.right button:nth-of-type(2) {
+    background-color: black;
+    color: white;
+}
+.right button:nth-of-type(1):hover{
+    background-color: #9400D3;
+}
+.right button:nth-of-type(2):hover {
+    background-color: #696969;
+}
+@media (max-width:768px) {
+    .singleProduct {
+        margin-top: 350px;
+    }
+}

@@ -1,0 +1,150 @@
+.head{
+    height: 500px;
+}
+:root {
+    --gray-color: #D3D3D3
+}
+body{
+    background-color: whitesmoke !important;
+}
+.home{
+    margin-top: 250px !important;
+}
+
+/* start Head */
+.headBox{
+    height: 600px;
+}
+.shopBtn{
+    font-size: 30px;
+    text-decoration: none;
+    color: coral;
+    background-color: white;
+    transition: 0.3s;
+}
+.shopBtn:hover{
+    background-color: coral;
+    color: white;
+}
+/* end Head */
+/* start sale */
+
+.leftSale{
+    background-color: crimson;
+    height: 500px;
+}
+.leftSale .text span:nth-of-type(1){
+    font-size: 20px;
+}
+.leftSale .text span:nth-of-type(2) {
+    font-size: 18px;
+}
+.leftShopBtn{
+    text-decoration: none;
+    background-color: white;
+    color: crimson;
+    transition: 0.3s;
+}
+.leftShopBtn:hover{
+    background-color: crimson;
+    color: white;
+    border: 1px solid white;
+}
+
+.rightSale {
+    background-color: black;
+    height: 500px;
+}
+.rightShopBtn{
+    color: black;
+    text-decoration: none;
+    background-color: white;
+    transition: 0.3s;
+}
+.rightShopBtn:hover {
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+}
+.rightSale .text span:nth-of-type(1) {
+    font-size: 20px;
+}
+
+.rightSale .text span:nth-of-type(2) {
+    font-size: 20px;
+}
+
+.benText{
+    font-size: 25px;
+}
+.benBox:not(:last-child){
+    border-right: 1px solid #c0c0c0;
+}
+@media (max-width:768px) {
+    
+}
+/* end sale */
+
+/* start Category */
+
+.img-circle{
+    border-radius: 50%;
+    height: 300px;
+    width: 300px !important;
+    background-color: #c0c0c0;
+}
+.catBox{
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+    
+}
+.catBox .img-circle img{
+    transition: 0.3s;
+    border-radius: 50%;
+}
+
+.catBox:hover .img-circle img{
+    transform: scale(1.1);
+}
+
+/* end Category */
+
+/* start newsletter */
+.newsletter form label {
+    font-size: 20px;
+}
+.newsletter form input[type='email']{
+    border: none;
+    font-size: 20px;
+    border-radius: 50px;
+}
+
+.newsletter form input[type='email']:focus{
+    outline: none;
+}
+
+.newsletter form input[type='submit'] {
+    border: none;
+    font-size: 20px;
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+    margin-left: -133px;
+}
+@media (max-width:768px) {
+    .newsletter form input[type='submit'] {
+        border: none;
+        font-size: 15px;
+        margin-left: 0;
+        }
+        .benBox:not(:last-child) {
+        border-bottom: 1px solid #c0c0c0;
+        border-right: none;
+        }
+        .home {
+                    margin-top: 300px !important;
+        }
+}
+/* end newsletter */
+

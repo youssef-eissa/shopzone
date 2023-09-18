@@ -1,0 +1,13 @@
+.cartsCon:not(:last-child){
+border-bottom: 1px solid #c0c0c0;
+}
+.viewcart{
+    background-color: #8A2BE2;
+    text-decoration: none;
+    color: white;
+    transition: 0.3s;
+}
+
+.viewcart:hover{
+    background-color: #9370DB;
+}

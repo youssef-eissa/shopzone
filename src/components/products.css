@@ -1,0 +1,14 @@
+.productContainer{
+    border: 1px solid #c0c0c0;
+    background-color: white;
+}
+
+.productContainer:hover .productImgBox img{
+    transition: 0.3s;
+}
+.productContainer:hover .productImgBox img{
+    transform: scale(1.1);
+}
+.products{
+    margin-top: 250px !important;
+}

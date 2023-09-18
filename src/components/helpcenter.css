@@ -1,0 +1,38 @@
+.helpcenterBtn {
+    text-decoration: none;
+    background-color: #8A2BE2;
+    color: white;
+    border-radius: 50px;
+    font-size: 25px;
+    transition: 0.3s;
+}
+
+.helpcenterBtn:hover {
+    background-color: white;
+    color: #8A2BE2;
+}
+
+.helpcenterLeft span {
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+}
+
+.helpcenterLeft {
+    position: relative;
+}
+
+.helpcenterLeft::after {
+    position: absolute;
+    content: '';
+    right: 0;
+    top: 0;
+    height: 120%;
+    width: 100px;
+    background-color: black;
+    transform: rotate(-25deg);
+}
+@media (max-width:768px) {
+    .helpcenterLeft::after {
+        display: none;
+    }
+}

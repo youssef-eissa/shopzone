@@ -1,0 +1,21 @@
+
+.login form input{
+    border: none;
+    background: transparent;
+    background-color: #D3D3D3;
+    font-size: 30px;
+}
+.login form input:focus{
+    outline: none;
+}
+.login form button{
+    border: none;
+    color: white;
+    font-size: 30px;
+    background-color: coral;
+    text-decoration: none;
+}
+
+
+
+

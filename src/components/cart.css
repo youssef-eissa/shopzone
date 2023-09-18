@@ -1,0 +1,19 @@
+.cart{
+    margin-top: 250px;
+}
+.cart h3,
+.orderSummary{
+    border-bottom: 1px solid black;
+    
+}
+.cart button {
+border: none;
+}
+.increment{
+    border: 1px solid black;
+}
+@media (max-width:768px) {
+    .cart {
+            margin-top: 300px;
+        }
+}

@@ -1,0 +1,50 @@
+.career form div input[type='text']:not(:nth-last-child(3)),
+.career form div input[type='email'] {
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #a3a3a3;
+}
+.careercon{
+    margin-top: 250px;
+}
+.career p{
+    font-size: 40px;
+}
+
+.career form div input[type='text']:focus,
+.career form div input[type='email']:focus {
+    outline: none;
+}
+.career form div input[type='text'],
+.career form div input[type='email']{
+    font-size: 30px;
+}
+
+.sbtn {
+    border: none;
+    background-color: #8A2BE2;
+    color: white;
+    transition: 0.3s;
+}
+
+.sbtn:hover {
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    padding: 2px;
+}
+
+.career form div label {
+    font-family: 'Rajdhani',
+        sans-serif;
+    font-size: 20px;
+}
+
+@media (max-width:768px) {
+    .career p {
+    font-size: 25px;
+    }
+        .career form div input[type='text']{
+            font-size: 20px;
+        }
+}

@@ -1,0 +1,47 @@
+.contact{
+    margin-top: 250px;
+}
+.contact h1{
+    padding: 80px;
+    border-bottom: 1px solid rgb(192, 192, 192);
+}
+
+.contact .right span {
+    font-size: 20px;
+}
+.contact form div label{
+    font-family: 'Dosis', sans-serif;
+}
+
+.contact form div input,
+.contact form div textarea {
+    border: none;
+    border-bottom: 3px solid rgb(192, 192, 192);
+    background-color: transparent;
+    
+}
+.contact form div textarea{
+    resize: none;
+}
+
+.contact form div input:focus,
+.contact form div textarea:focus{
+    outline: none;
+}
+
+.contact form  button{
+    border: none;
+        background-color: #8A2BE2;
+        color: white;
+        transition: 0.3s;
+}
+.contact form button:hover {
+    background-color: black;
+    color: white;
+
+}
+@media (max-width:768px) {
+    .contact h1 {
+        padding: 50px;
+}
+}

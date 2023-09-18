@@ -1,0 +1,62 @@
+.locations span {
+    font-size: 20px;
+}
+
+.socials span {
+    color: black;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.socials span:nth-child(1):hover {
+    color: #1877f2;
+}
+
+.socials span:nth-child(2):hover {
+    color: #fd1d1d;
+}
+
+.socials span:nth-child(3):hover {
+    color: #1da1f2;
+}
+
+.socials span:nth-child(4):hover {
+    color: #ff0000;
+}
+
+.shop .link {
+    text-decoration: none;
+    font-size: 20px;
+    transition: 0.3s;
+}
+.shop .link:hover{
+    color: coral !important;
+}
+
+.support .link {
+    text-decoration: none;
+    font-size: 20px;
+    transition: 0.3s;
+}
+.support .link:hover {
+    color: coral !important;
+}
+
+.policy .link {
+    text-decoration: none;
+    font-size: 20px;
+    transition: 0.3s;
+}
+.policy .link:hover {
+    color: coral !important;
+}
+
+.footer {
+    border-bottom: 2px solid #c0c0c0;
+}
+@media (max-width:768px) {
+    .theBox:not(:last-child) {
+        border-bottom: 1px solid #c0c0c0;
+        
+    }
+}

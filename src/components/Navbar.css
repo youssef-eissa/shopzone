@@ -1,0 +1,70 @@
+.freeShip {
+    font-size: 20px;
+    font-family: 'Tulpen One', cursive !important;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+.navBar{
+    transition: 0.5s;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: white;
+    z-index: 100;
+}
+.logo{
+    text-align: none;
+    font-size: 40px;
+    text-decoration: none;
+}
+.searchContainer input {
+    border: none;
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    font-size: 20px;
+    padding-left: 10px;
+}
+.searchContainer{
+    position: relative;
+}
+.results{
+    background-color: whitesmoke;
+    height: 500px;
+    overflow-y: scroll;
+}
+@media (max-width:768px) {
+    .results{
+        height: 250px;
+    }
+}
+
+.searchContainer input:focus {
+    outline: none;
+}
+
+.searchContainer .search {
+    background-color: #8A2BE2;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.link{
+    text-decoration: none;
+    transition: 0.3s;
+    text-transform: capitalize;
+    color: black;
+}
+
+.link:hover {
+    color: coral !important;
+}
+
+.shipLink{
+    transition: 0.3s;
+    color: white;
+}
+.shipLink:hover{
+    color: coral !important;
+}
+

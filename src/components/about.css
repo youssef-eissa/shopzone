@@ -1,0 +1,15 @@
+
+.aboutText span{
+font-family: 'Black Ops One',
+        cursive !important;
+        color: coral;
+        font-size: 20px;
+
+}
+.about {
+    margin-top: 250px !important;
+}
+.aboutText{
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 700;
+}
