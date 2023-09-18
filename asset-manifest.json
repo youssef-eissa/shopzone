@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/shopzone/static/css/main.c0a2632c.css",
+    "main.js": "/shopzone/static/js/main.72c6a064.js",
+    "static/js/787.257f08e5.chunk.js": "/shopzone/static/js/787.257f08e5.chunk.js",
+    "static/media/about.jpg": "/shopzone/static/media/about.11b858272381e42f8d9a.jpg",
+    "static/media/sale1.jpeg": "/shopzone/static/media/sale1.50e6d0ed1894d06344d3.jpeg",
+    "static/media/pexels-andrea-piacquadio-842811.jpg": "/shopzone/static/media/pexels-andrea-piacquadio-842811.f55060bdd88840350dbc.jpg",
+    "static/media/womenCat.png": "/shopzone/static/media/womenCat.90f56204e258e8aac716.png",
+    "static/media/womenCategory.png": "/shopzone/static/media/womenCategory.7c11a5d6aa498459dd66.png",
+    "static/media/landing4.jpeg": "/shopzone/static/media/landing4.d93528b7f399f771d63c.jpeg",
+    "static/media/pngtree-asian-guy-in-glasses-in-a-city-picture-image_2646149.jpg": "/shopzone/static/media/pngtree-asian-guy-in-glasses-in-a-city-picture-image_2646149.61a14c9a8d4ff50e449c.jpg",
+    "static/media/318707.jpg": "/shopzone/static/media/318707.38f150a00721dc081280.jpg",
+    "static/media/landing1.jpeg": "/shopzone/static/media/landing1.7acc0a12c2d625697c3e.jpeg",
+    "static/media/landing2.jpeg": "/shopzone/static/media/landing2.187aea75761d56785e75.jpeg",
+    "static/media/menCat.png": "/shopzone/static/media/menCat.6eb47be24a913b29deac.png",
+    "static/media/mobCat.png": "/shopzone/static/media/mobCat.957f11d95503d4d60aea.png",
+    "static/media/sale2.jpeg": "/shopzone/static/media/sale2.2376cf6a8fabd0dd84ab.jpeg",
+    "static/media/kids-4583785_1280.jpg": "/shopzone/static/media/kids-4583785_1280.0f0590fa6a883bef07b8.jpg",
+    "static/media/landing3.webp": "/shopzone/static/media/landing3.753208ecb38f534912ee.webp",
+    "static/media/1437673.jpg": "/shopzone/static/media/1437673.8e82a53d063c8f45d81d.jpg",
+    "static/media/helpCenter.jpeg": "/shopzone/static/media/helpCenter.3a1f6f494fd44f97a784.jpeg",
+    "static/media/landing5.avif": "/shopzone/static/media/landing5.cbf95a5e35bd3d91d9c6.avif",
+    "static/media/discover.webp": "/shopzone/static/media/discover.3d4ef4c87e53146bfb1f.webp",
+    "static/media/club.webp": "/shopzone/static/media/club.e33b8f253c5fb6c7c85d.webp",
+    "static/media/unionPay.webp": "/shopzone/static/media/unionPay.6c577be562d3bcc267a1.webp",
+    "static/media/paypal.webp": "/shopzone/static/media/paypal.f65f47320647aa43ae99.webp",
+    "static/media/american-express.webp": "/shopzone/static/media/american-express.802387e9f7b7a477bc02.webp",
+    "static/media/jcb.webp": "/shopzone/static/media/jcb.f30a92f9b5e7b72fe8f4.webp",
+    "static/media/Visa.webp": "/shopzone/static/media/Visa.2be60fcf29f1ae05502a.webp",
+    "static/media/brand-mastercard@3x.webp": "/shopzone/static/media/brand-mastercard@3x.a8583436fe477063811d.webp",
+    "index.html": "/shopzone/index.html",
+    "main.c0a2632c.css.map": "/shopzone/static/css/main.c0a2632c.css.map",
+    "main.72c6a064.js.map": "/shopzone/static/js/main.72c6a064.js.map",
+    "787.257f08e5.chunk.js.map": "/shopzone/static/js/787.257f08e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0a2632c.css",
+    "static/js/main.72c6a064.js"
+  ]
+}
