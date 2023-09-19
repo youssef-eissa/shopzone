@@ -2,11 +2,11 @@
 
 An integrated API website with login page that allow user to add and remove products from the cart.
 
-#Api sources:
+# Api sources:
 - https://fakestoreapi.com/products for products
 - https://fakestoreapi.com/users for users
 
-#About the website
+# About the website
 
 The e-commerce ShopZone project includes the following pages:
 (All pages include navbar and footer )
@@ -19,7 +19,7 @@ The e-commerce ShopZone project includes the following pages:
 - Contact Page
 -  Cart Page
 
-#Features
+# Features
 
 The e-commerce ShopZone project includes the following features:
 
