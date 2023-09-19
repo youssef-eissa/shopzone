@@ -88,10 +88,10 @@ function Footer() {
                 </div>
                 <div className='col-md-3 col-12 d-flex support flex-column mb-3 mb-md-0 theBox pb-md-0 pb-3'>
                     <h3 className='col-12 d-flex justify-content-center mb-md-5 mb-3'>Customer Support</h3>
-                    <Link to='/shopzone/contact' onClick={() =>window.scrollTo({behavior:'smooth',top:0})} style={{ fontFamily: 'Rajdhani, sans-serif', color: 'black' }} className='col-12 d-flex justify-content-center link mb-2'>Contact Us</Link>
-                    <Link  onClick={() =>window.scrollTo({behavior:'smooth',top:0})} style={{ fontFamily: 'Rajdhani, sans-serif', color: 'black' }} className='col-12 d-flex justify-content-center link mb-2'>Help Center</Link>
-                    <Link onClick={() =>window.scrollTo({behavior:'smooth',top:0})} to='/shopzone/about' style={{ fontFamily: 'Rajdhani, sans-serif', color: 'black' }} className='col-12 d-flex justify-content-center link mb-2'>About Us</Link>
-                    <Link to='/shopzone/career' onClick={() =>window.scrollTo({behavior:'smooth',top:0})} style={{ fontFamily: 'Rajdhani, sans-serif', color: 'black' }} className='col-12 d-flex justify-content-center link mb-2'>Careers</Link>
+                    <Link to='/shopzone/contact' onClick={() => window.scrollTo({top:0,behavior:'smooth'})} style={{ fontFamily: 'Rajdhani, sans-serif', color: 'black' }} className='col-12 d-flex justify-content-center link mb-2'>Contact Us</Link>
+                    <Link  onClick={() =>window.scrollTo({top:0,behavior:'smooth'})} style={{ fontFamily: 'Rajdhani, sans-serif', color: 'black' }} className='col-12 d-flex justify-content-center link mb-2'>Help Center</Link>
+                    <Link onClick={() =>window.scrollTo({top:0,behavior:'smooth'})} to='/shopzone/about' style={{ fontFamily: 'Rajdhani, sans-serif', color: 'black' }} className='col-12 d-flex justify-content-center link mb-2'>About Us</Link>
+                    <Link to='/shopzone/career' onClick={() =>window.scrollTo({top:0,behavior:'smooth'})} style={{ fontFamily: 'Rajdhani, sans-serif', color: 'black' }} className='col-12 d-flex justify-content-center link mb-2'>Careers</Link>
                 </div>
                 <div className='col-md-3 col-12 d-flex policy flex-column mb-3 mb-md-0 theBox pb-md-0 pb-3'>
                     <h3 className='col-12 d-flex justify-content-center mb-md-5 mb-3 '>Policy</h3>

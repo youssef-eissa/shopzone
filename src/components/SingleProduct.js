@@ -13,6 +13,8 @@ function SingleProduct() {
 
     function handleCart(product) {
         dispatch(carts({ ...product, quantity: itemQuantity }));
+        window.scrollTo({top:0,behavior:'smooth'})
+
     }
     function handleChange(e) {
         setQuantity(parseInt(e.target.value))

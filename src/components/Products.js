@@ -27,6 +27,7 @@ function Products() {
         dispatch(resetProducts())
         dispatch(productDetails(product))
         dispatch(productArray(product))
+        window.scrollTo({top:0,behavior:'smooth'})
     }
 return (
     <motion.div
