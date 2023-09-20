@@ -37,19 +37,19 @@ The e-commerce ShopZone project includes the following features:
 
 # Screenshots
 
-<img alt='login' src='/Users/youssef3issa/Desktop/shopzone/src/screenshots/login.png'>
-<img alt='home' src='/Users/youssef3issa/Desktop/shopzone/src/screenshots/home1.png'>
-<img alt='home' src='/Users/youssef3issa/Desktop/shopzone/src/screenshots/home2.png'>
-<img alt='home' src='/Users/youssef3issa/Desktop/shopzone/src/screenshots/home3.png'>
-<img alt='home' src='/Users/youssef3issa/Desktop/shopzone/src/screenshots/home4.png'>
-<img alt='home' src='/Users/youssef3issa/Desktop/shopzone/src/screenshots/home5.png'>
-<img alt='home' src='/Users/youssef3issa/Desktop/shopzone/src/screenshots/about.png'>
-<img alt='home' src='/Users/youssef3issa/Desktop/shopzone/src/screenshots/contact.png'>
-<img alt='home' src='/Users/youssef3issa/Desktop/shopzone/src/screenshots/careers.png'>
-<img alt='home' src='/Users/youssef3issa/Desktop/shopzone/src/screenshots/products.png'>
-<img alt='home' src='/Users/youssef3issa/Desktop/shopzone/src/screenshots/productsDetails.png'>
-<img alt='home' src='/Users/youssef3issa/Desktop/shopzone/src/screenshots/cartBar.png'>
-<img alt='home' src='/Users/youssef3issa/Desktop/shopzone/src/screenshots/cart.png'>
+<img alt='login' src='/src/screenshots/login.png'>
+<img alt='home' src='/src/screenshots/home1.png'>
+<img alt='home' src='/src/screenshots/home2.png'>
+<img alt='home' src='src/screenshots/home3.png'>
+<img alt='home' src='/src/screenshots/home4.png'>
+<img alt='home' src='/src/screenshots/home5.png'>
+<img alt='about' src='/src/screenshots/about.png'>
+<img alt='contact' src='/src/screenshots/contact.png'>
+<img alt='products' src='/src/screenshots/careers.png'>
+<img alt='productsDetails' src='/src/screenshots/products.png'>
+<img alt='productsDetails' src='/src/screenshots/productsDetails.png'>
+<img alt='cartBar' src='/src/screenshots/cartBar.png'>
+<img alt='cart' src='/src/screenshots/cart.png'>
 
 
 
