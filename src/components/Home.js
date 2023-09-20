@@ -212,11 +212,8 @@ return (
                         />
                     </form>
                 </div>
-                
             </div>
         </div>
-       
-        
     </motion.div>
 
 )

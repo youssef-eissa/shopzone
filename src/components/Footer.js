@@ -126,13 +126,13 @@ function Footer() {
                         <div className='img-box col-1'>
                             <img alt='logo' src={ discover} className='img-fluid' />
                         </div>
-                         <div className='img-box col-1'>
+                        <div className='img-box col-1'>
                             <img alt='logo' src={ paypal} className='img-fluid' />
                         </div>
                     </div>
                 </div>
         </motion.div>
-  )
+)
 }
 
 export default Footer

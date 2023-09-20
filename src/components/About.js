@@ -26,7 +26,6 @@ return (
                 </div>
             </div>
         </div>
-       
     </motion.div>
 )
 }
